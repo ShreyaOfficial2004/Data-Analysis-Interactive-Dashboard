@@ -17,3 +17,7 @@ This project is an interactive sales dashboard created using Microsoft Excel for
 
 ## created for
 - data Analytics practice project
+
+## dashboard preview
+-![Dashboard Screenshot]
+-(dashboard.png)
